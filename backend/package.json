@@ -1,0 +1,17 @@
+{
+  "name": "react-chart",
+  "version": "1.0.0",
+  "description": "by vaibhav",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
