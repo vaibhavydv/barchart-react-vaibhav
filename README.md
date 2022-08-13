@@ -1,4 +1,4 @@
-# Tresor React Assignment
+# React Bar Dynamic Chart
 
 ## For Backend
 
